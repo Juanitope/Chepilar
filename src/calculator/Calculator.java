@@ -34,7 +34,7 @@ public class Calculator {
         int resultat;
         resultat=0;
         
-                       
+             // tu as oublié un commentaire          
         switch (operateur){
             case 1 :
                 resultat=operande1+operande2;
